@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.menu li{
+display: inline-block;
+padding: 10px;
+
+}
+.footer{
+background: #eee;
+min-height: 150px;
+}
+.footer h2{
+  padding-top: 50px;
+}
+.height500{
+  min-height: 500px;
+}
+.container{
+  min-height: 500px;
+}
